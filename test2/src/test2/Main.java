@@ -3,6 +3,6 @@ package test2;
 public class Main {
  public static void main(String [] args) {
  System .out. println (" Hello , world !");
- int i=1;
+ int i=2;
 }
  }
